@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 
 gem 'sinatra', '1.4.4'
-gem "octokit"
-gem "hashie"
-gem "awesome_print"
+gem 'octokit'
+gem 'hashie'
+gem 'awesome_print'
 
 
 group :development do
-  gem "pry"
+  gem 'pry'
 end
